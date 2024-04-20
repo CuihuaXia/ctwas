@@ -6,8 +6,8 @@ Running cTWAS involves four main steps: preparing input data, imputing gene z-sc
 
 <img style="display:block;margin:auto" width="700" height="300" src="./workflow.png">
 
-## Create EAS.b37.bed
-Create EAS.b37.bed for my use.
+## CREATE EAS.B37.BED
+CREATE EAS.b37.bed FOR MY USE.
 
 ## Install
 
@@ -29,6 +29,84 @@ repository useful for your work, please cite:
 > Adjusting for genetic confounders in transcriptome-wide association 
 > studies improves discovery of risk genes of complex traits. 
 > Nat Genet (2024). https://doi.org/10.1038/s41588-023-01648-9
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
