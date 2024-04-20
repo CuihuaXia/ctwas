@@ -14,7 +14,8 @@ Running cTWAS involves four main steps: preparing input data, imputing gene z-sc
 Install `ctwas`:
 
 ```
-remotes::install_github("CuihuaXia/ctwas", ref = "main", force = TRUE)
+remotes::install_github("CuihuaXia/ctwas_cx", ref = "main", force = TRUE)
+library(ctwas_cx)
 ```
 
 Currently, `ctwas` has only been tested on linux systems. 
@@ -29,6 +30,20 @@ repository useful for your work, please cite:
 > Adjusting for genetic confounders in transcriptome-wide association 
 > studies improves discovery of risk genes of complex traits. 
 > Nat Genet (2024). https://doi.org/10.1038/s41588-023-01648-9
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
